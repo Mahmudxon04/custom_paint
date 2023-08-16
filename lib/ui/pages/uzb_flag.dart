@@ -9,11 +9,11 @@ class Example1 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Uzb flag'),
+        title: Text('Uzbekistan flag'),
       ),
       body: Center(
         child: Container(
-          height: 320,
+          height: 340,
           width: double.infinity,
           color: Colors.red,
           child: CustomPaint(

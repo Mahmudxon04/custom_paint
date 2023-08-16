@@ -9,7 +9,7 @@ class Emoji4 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Bad'),
+        title: const Text('bad'),
       ),
       body: Center(
           child: CustomPaint(
